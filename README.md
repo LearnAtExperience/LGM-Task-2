@@ -4,9 +4,6 @@ I have deployed it on Herokuapp. Kindly have a look on it.
 
 https://reactapi-lgm-learnatexperience.herokuapp.com
 
-
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
