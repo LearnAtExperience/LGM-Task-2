@@ -1,8 +1,8 @@
 # LGM Task - 2
 ## Creating a Web Application with API call using React App 
-I have deployed it on Herokuapp. Kindly have a look on it.
+I have deployed it on Vercel. Kindly have a look on it.
 
-https://reactapi-lgm-learnatexperience.herokuapp.com
+https://react-api-call-chi.vercel.app/
 
 # Getting Started with Create React App
 
